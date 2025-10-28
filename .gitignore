@@ -1,0 +1,75 @@
+# Super secret password lol
+pass.txt
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.history/
+*.code-workspace
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+# Uncomment if you have package restore turned on
+# !packages/build/
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.user
+*.rsuser
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+*.publish.xml
+
+# Optional: if you use Docker
+docker-compose.override.yml
+.env
+
+# Optional: if you use secrets.json for development
+appsettings.Development.json
+secrets.json
+
