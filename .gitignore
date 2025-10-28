@@ -1,6 +1,9 @@
 # Super secret password lol
 pass.txt
 
+# mmm
+ignorethis.txt
+
 # Build results
 bin/
 obj/
